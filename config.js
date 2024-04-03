@@ -10,13 +10,13 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //---------[ Añada los numeros a ser Propietario/a ]---------
 
-global.owner = [['573026191480', 'ＰＲＯＰＩＥＴＡＲＩＯ', true], ['593968585383'], ['5217294888993'], ['5492266466080'], ['595985451858'], ['595992302861'], ['5492266613038'], ['5491161057561'], ['595986172767'], ['5217441298510'], ['5492964650915']]
-global.mods = ['50495745934']
-global.prems = ['972529277314'],
+global.owner = [['549112894-4621', 'ＰＲＯＰＩＥＴＡＲＩᗩ', true], ['595976126756', 'ᑕOᒪᗩᗷOᖇᗩᗪOᖇ', true], ['595994836199'], ['595986637644'], ['595994825505'], ['595986224522']]
+global.mods = ['595976126756']
+global.prems = ['595994836199'],
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
-global.botNumberCode = "" //Ejemplo: +59309090909
+global.botNumberCode = "" //Ejemplo: +595xxxxxxxxx
 global.confirmCode = "" 
 
 //---------[ IDIOMA : LENGUAJE ]---------
@@ -74,28 +74,28 @@ global.moment = moment
 
 //------------------------[ Stickers ]-----------------------------
 
-global.packname = '𝙏𝙤𝙢𝙖 𝙩𝙪 𝙨𝙩𝙞𝙘𝙠𝙚𝙧'
-global.author = '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.packname = '𝑬𝒔𝒕𝒊𝒄𝒌𝒆𝒓 𝒄𝒓𝒆𝒂𝒅𝒐 𝒄𝒐𝒏 𝒆𝒙𝒊𝒕𝒐'
+global.author = '𝑨𝒈𝒂'
 
 //------------[ Versión | Nombre | cuentas ]------------
 
-global.wm = '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
-global.vs = '1.5.7'
-global.yt = 'https://www.youtube.com/@elrebelde.21'
-global.tiktok = 'tiktok.com/@elrebelde21'
-global.md = 'https://github.com/elrebelde21/LoliBot-MD'
-global.fb = 'https://www.facebook.com/elrebelde21'
-global.face = 'https://www.facebook.com/groups/872989990425789/'
+global.wm = '𝑨𝒈𝒂'
+global.vs = '1.0.0'
+global.yt = 'https://www.youtube.com/@AdrianOficial905'
+global.tiktok = 'tiktok.com/@AdrianOficial'
+global.md = 'https://github.com/The-DiosBot-MD/Aga'
+global.fb = 'https://www.instagram.com/blerk_aw?igsh=NGxybWZ5ZTgwNWlv'
+global.face = 'https://www.instagram.com/blerk_aw?igsh=NGxybWZ5ZTgwNWlv'
 
-global.nna = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A' //Update
-global.nn = 'https://chat.whatsapp.com/H4hxytyGvucIF1k0UAR7es' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/H4hxytyGvucIF1k0UAR7es' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/IlyJBy1fxcw2qAHLSC5YLa' //Grupo del Colaboracion
-global.nnnt2 = 'https://chat.whatsapp.com/K7RzcVdxGqhGP5dCpVENSI' // Grupo COL 2
-global.nnntt = 'https://chat.whatsapp.com/IB9Vs7mZ03BBkH3reCU8Dw' //Grupo COL 3
-global.nnnttt = 'https://chat.whatsapp.com/KlqNmoUcVnsGJxIfATIDrK' //enlace lolibot
-global.nnntttt = 'https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs' //Grupo ayuda sobre el bot
-global.bot = 'Wa.me/573147616444'
+global.nna = 'https://chat.whatsapp.com/GQ3JNTiH4qYD8z5J70Sg9B' //Update
+global.nn = 'https://chat.whatsapp.com/GQ3JNTiH4qYD8z5J70Sg9B' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/GQ3JNTiH4qYD8z5J70Sg9B' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI' //Grupo del Colaboracion
+global.nnnt2 = 'https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI' // Grupo COL 2
+global.nnntt = 'https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI' //Grupo COL 3
+global.nnnttt = 'https://chat.whatsapp.com/GQ3JNTiH4qYD8z5J70Sg9B' //enlace lolibot
+global.nnntttt = 'https://chat.whatsapp.com/GQ3JNTiH4qYD8z5J70Sg9B' //Grupo ayuda sobre el bot
+global.bot = 'Wa.me/549112894-4621'
 global.asistencia = `${fb}`
 global.redes = [nna, yt, nn, md, tiktok, fb, nnn, face]
 
@@ -118,7 +118,7 @@ global.waitt = '*⌛ _Cargando..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando..._ ▬▬▬▬▭▭*'
 global.waitttt = '*⌛ _Cargando..._ ▬▬▬▬▬▬▭*'
 global.waittttt = '*⌛ _Cargando..._ ▬▬▬▬▬▬▬*'
-global.rg = '『✅ 𝙍𝙀𝙎𝙐𝙇𝙏𝘼𝘿𝙊𝙎 ✅』\n\n'
+global.rg = '『✅ 𝙍𝙀𝙎𝙐𝙇𝙏𝘼𝘿𝙊 ✅』\n\n'
 global.resultado = rg
 global.ag = '『⚠️ 𝘼𝘿𝙑𝙀𝙍𝙏𝙀𝙉𝘾𝙄𝘼 ⚠️』\n\n'
 global.advertencia = ag
